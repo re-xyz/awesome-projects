@@ -1,6 +1,6 @@
 A selection of enticing/sweet-smelling open source projects to read.
 
-### Small
+### Small-size
 
 * 
 
